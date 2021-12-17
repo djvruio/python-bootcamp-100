@@ -11,3 +11,8 @@ Interesting resources for day 4.
 - Copy and paste emojis [GetEmoji](https://getemoji.com/)
 - Rock, Paper, Scissors rules [WRPSA](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 - Ascii Art [Ascii Art](https://ascii.co.uk/art)
+
+## Day 7 resources
+Interesting resources for day 7.
+
+- Python List [Google for Education Python](https://developers.google.com/edu/python/lists#for-and-in)
