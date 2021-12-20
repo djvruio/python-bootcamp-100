@@ -1,18 +1,18 @@
-# python-bootcamp-100
-100 Days of Code Challenge for The Complete Python Pro Bootcamp for 2022
+# Python Bootcamp 100
+100 Days of Code Challenge for The Complete Python Pro Bootcamp.
 
-Each day a project to solve
+# What it does ?
+Every day a different problem/project is solved using python programming language.
 
-## Day 4 resources
-Interesting resources for day 4.
+# Things I learned
+- Python coding ([Python 3](https://docs.python.org/3/))
+- Automation
+- Build websites and apps
+- Learn data science
 
-- Python tutorials and examples [Ask Python](https://www.askpython.com/).
-- Pseudorandom number generator used by Python [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
-- Copy and paste emojis [GetEmoji](https://getemoji.com/)
-- Rock, Paper, Scissors rules [WRPSA](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
-- Ascii Art [Ascii Art](https://ascii.co.uk/art)
-
-## Day 7 resources
-Interesting resources for day 7.
-
-- Python List [Google for Education Python](https://developers.google.com/edu/python/lists#for-and-in)
+# How to run?
+Clone this repository and execute the desired file from the command line.
+Ex:
+```
+$python file.py
+```
