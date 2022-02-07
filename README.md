@@ -16,3 +16,5 @@ Ex:
 ```
 $python file.py
 ```
+# Resources
+[Visualize code execution](https://pythontutor.com/)
